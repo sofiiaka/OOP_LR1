@@ -1,0 +1,15 @@
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\bin\Debug\net6.0\oopLr1.exe
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\bin\Debug\net6.0\oopLr1.deps.json
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\bin\Debug\net6.0\oopLr1.runtimeconfig.json
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\bin\Debug\net6.0\oopLr1.dll
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\bin\Debug\net6.0\oopLr1.pdb
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.csproj.AssemblyReference.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.AssemblyInfoInputs.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.AssemblyInfo.cs
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.csproj.CoreCompileInputs.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.dll
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\refint\oopLr1.dll
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.pdb
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\oopLr1.genruntimeconfig.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr1\oopLr1\obj\Debug\net6.0\ref\oopLr1.dll
